@@ -1,22 +1,4 @@
-Software Engineering Graduate Course
-
-
-Check list:
-
-Open new repository on git …
-
-Make sure that actions button is pressed to log commits
-
-ensure there is a articulated description and link to your implementation of the design patterns you use
-
-
-Add short Explanation of Exponential function (calculation command) and Modulus function (calculation command for returning the remainder of the divided variables) in description 
-
-You need to explain and link to how you are using logging .
-
-You need to link to and explain how you are using try/catch / exceptions to illustrate "Look Before You Leap" (LBYL) and "Easier to Ask for Forgiveness than Permission" (EAFP)
-
-Certainly! Let's break down the two programming paradigms, "Look Before You Leap" (LBYL) and "Easier to Ask for Forgiveness than Permission" (EAFP), and how they relate to using try/catch or exceptions in code.
+Under standing LBYL AND EAFP
 
 ### Look Before You Leap (LBYL)
 - **Concept**: LBYL is a programming style where you check for potential issues before performing an operation.
@@ -55,11 +37,3 @@ In the `safe_modulus_eafp` function, we use a `try` block to perform the modulus
 - **EAFP** assumes the operation will succeed and catches exceptions if they occur.
 
 Both paradigms have their use cases. LBYL can be more readable and avoid the cost of handling exceptions, but it may result in more checks. EAFP can lead to cleaner and more straightforward code, especially in cases where errors are expected to be rare and the cost of handling exceptions is low.
-
-Add readme.md file and add 3-5 min video demonstration of using the calculator and running commands (producing calculations)
-
-Submit a link to your repository to Canvas.
-
-Keep your repository private while working on it, so people don't copy your work. Make the repository public within a day of the project being due, so we can grade it.
-
-Reminder keep GitHub actions open
