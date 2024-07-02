@@ -1,4 +1,4 @@
-Under standing LBYL AND EAFP
+Understanding LBYL AND EAFP:
 
 ### Look Before You Leap (LBYL)
 - **Concept**: LBYL is a programming style where you check for potential issues before performing an operation.
