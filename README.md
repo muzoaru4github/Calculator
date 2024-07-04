@@ -37,3 +37,6 @@ In the `safe_modulus_eafp` function, we use a `try` block to perform the modulus
 - **EAFP** assumes the operation will succeed and catches exceptions if they occur.
 
 Both paradigms have their use cases. LBYL can be more readable and avoid the cost of handling exceptions, but it may result in more checks. EAFP can lead to cleaner and more straightforward code, especially in cases where errors are expected to be rare and the cost of handling exceptions is low.
+
+VIDEO: https://drive.google.com/file/d/1WY6TGJNH3aDGf6qHYS8LvnnRQ5JqD1fc/view?usp=drive_link
+
